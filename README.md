@@ -17,4 +17,4 @@ virtualenv ve
 pip3 install django
 python3 manage.py startserver
 ```
-Navigate to ![url](http://127.0.0.1:8000/polls)
+Navigate to http://127.0.0.1:8000/polls
