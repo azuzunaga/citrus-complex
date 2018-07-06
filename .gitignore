@@ -2,3 +2,4 @@ ve
 credentials
 polls/__pycache__
 citrusComplex/__pycache__
+polls/migrations/__pycache__
